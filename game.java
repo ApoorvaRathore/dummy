@@ -10,6 +10,7 @@ import javax.swing.*;
 import javax.swing.Timer;
 import java.awt.Rectangle;
 import java.awt.*;
+import java.util.Timer;
 //import java.util.Timer;
  class game
 {
