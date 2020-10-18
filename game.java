@@ -18,7 +18,7 @@ public static void main(String args [])
 {
 JFrame obj=new JFrame();
 obj.setBounds(10,10,700,600);
-obj.setTitle("my first game brick-breaker");
+obj.setTitle("Brick-Breaker");
 obj.setVisible(true);
 obj.setResizable(true);
 Gameplay obj2=new Gameplay();
